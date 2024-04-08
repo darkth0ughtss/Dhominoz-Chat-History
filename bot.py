@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 from pymongo import MongoClient
-from config import BOT_TOKEN, MONGODB_URI, CHANNEL_ID , GROUP_ID
+from config import BOT_TOKEN, MONGODB_URI, CHANNEL_ID
 
 # Replace 'YOUR_TOKEN' with your actual bot token
 bot = telebot.TeleBot(BOT_TOKEN)
