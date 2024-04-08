@@ -3,7 +3,7 @@ from telebot import types
 from pymongo import MongoClient
 from sudo import sudo_user_id
 
-bot_token = '6909887284:AAE5d6JfPLSDU4847vZ7VToNPp7yWlD3oNs'
+bot_token = '6617412135:AAFi7k0BBdGhsoSLm9maa48Z-puqRwA1wvw'
 mongo_connection_url = 'mongodb+srv://phantmp:loniko0908@cluster0.nocjks1.mongodb.net/?retryWrites=true&w=majority'
 
 bot = telebot.TeleBot(bot_token)
