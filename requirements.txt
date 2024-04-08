@@ -3,3 +3,5 @@ pyTelegramBotAPI
 Flask
 gunicorn
 aiohttp
+pymongo
+random
