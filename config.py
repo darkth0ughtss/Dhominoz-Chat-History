@@ -1,4 +1,3 @@
-API_ID = '20028561'
-API_HASH = '0f3793daaf4d3905e55b0e44d8719cad'
-BOT_TOKEN = '6617412135:AAFi7k0BBdGhsoSLm9maa48Z-puqRwA1wvw'
-MONGODB_URI = 'mongodb+srv://darkth0ughtss00:loniko0908@music.njvuzcz.mongodb.net/'
+BOT_TOKEN = "7101252108:AAESInexXbEPCYGE0hP1dUGINBhPGxGpNfo"
+MONGODB_URI = "mongodb+srv://dhominozlogger:loniko0908@cluster0.n8jkpuk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+CHANNEL_ID = "-1001822594430"
